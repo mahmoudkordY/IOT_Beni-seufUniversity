@@ -4,7 +4,7 @@
 
 
 #and that is the steps to run it
-======================================
+_____________________________________________
 1.Open Proteus to The Project 
 
 2. Open the Arduino code and run to get Hex file
